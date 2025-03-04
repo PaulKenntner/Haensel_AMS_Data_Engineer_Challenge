@@ -1,0 +1,322 @@
+[
+  {
+    "conversion_id": "d95d45442caec2cdfe2a5e94e0eb6210d5082347d3a5ee3bddf17a434f70d471",
+    "session_id": "ba74c387f8a2f5ee3facddc70ab1fbb546d71aa9f0a8c46d5f41a5ea518a8d93",
+    "timestamp": "2023-09-02 21:20:50",
+    "channel_label": "Direct Traffic",
+    "holder_engagement": 1,
+    "closer_engagement": 1,
+    "conversion": 0,
+    "impression_interaction": 0
+  },
+  {
+    "conversion_id": "d95d45442caec2cdfe2a5e94e0eb6210d5082347d3a5ee3bddf17a434f70d471",
+    "session_id": "510ce0f454c0d54d6767aa22d1f2710643bae56473107a36356fe1a4db8bc36b",
+    "timestamp": "2023-09-02 21:26:52",
+    "channel_label": "Newsletter & Email",
+    "holder_engagement": 1,
+    "closer_engagement": 1,
+    "conversion": 1,
+    "impression_interaction": 0
+  },
+  {
+    "conversion_id": "d3d55eb720d79bb08e9f408915a3f009558b8b6477c2bbae945971c67314c185",
+    "session_id": "48c06b1da56a5e00d5a886416f5573aae8133cc2195f2e918bffcb903677cde0",
+    "timestamp": "2023-09-01 22:55:58",
+    "channel_label": "Newsletter & Email",
+    "holder_engagement": 1,
+    "closer_engagement": 1,
+    "conversion": 1,
+    "impression_interaction": 0
+  },
+  {
+    "conversion_id": "32620632df129cd5453b3a8e31a6131bf871d867656e6aadf9bbc30ce702dd0e",
+    "session_id": "f55c65c6ff02b180642d08bd6010999e85b602015c6c55dd6ba8145357babcf8",
+    "timestamp": "2023-09-04 09:35:31",
+    "channel_label": "Newsletter & Email",
+    "holder_engagement": 0,
+    "closer_engagement": 0,
+    "conversion": 0,
+    "impression_interaction": 0
+  },
+  {
+    "conversion_id": "32620632df129cd5453b3a8e31a6131bf871d867656e6aadf9bbc30ce702dd0e",
+    "session_id": "c0af6a74198449fd691643d7cb0eaf6f113c98a9e2be191268184f0f0045d3b1",
+    "timestamp": "2023-09-04 11:09:52",
+    "channel_label": "Newsletter & Email",
+    "holder_engagement": 1,
+    "closer_engagement": 1,
+    "conversion": 1,
+    "impression_interaction": 0
+  },
+  {
+    "conversion_id": "f52e50745637b014141a4b2466de9b876d4a6ba9b6bffc37f76c51fa47ff0721",
+    "session_id": "cbcc594babdef032607109a774e74d3857b26a50a73b3acc555f3b48337e0d46",
+    "timestamp": "2023-09-02 11:15:56",
+    "channel_label": "FB & IG Ads",
+    "holder_engagement": 1,
+    "closer_engagement": 1,
+    "conversion": 1,
+    "impression_interaction": 0
+  },
+  {
+    "conversion_id": "eecf84f69be22bcdd0f60d8d041b64e16449ed8cda746f75aa85c089c986dc6e",
+    "session_id": "d4f70c9e94d667f8d04c941b079730a04e2b372934da96a825455f20c4d366c3",
+    "timestamp": "2023-09-02 15:32:36",
+    "channel_label": "Paid Search Brand",
+    "holder_engagement": 1,
+    "closer_engagement": 1,
+    "conversion": 1,
+    "impression_interaction": 0
+  },
+  {
+    "conversion_id": "3fdc46859fea4e123133fbc88e76523723d9c5e9ce62385082560801feecb82d",
+    "session_id": "d920f6044e20bb887ea50f1243163c10839053e7a1c7d64a0111e25fbd581f44",
+    "timestamp": "2023-09-01 10:51:39",
+    "channel_label": "Direct Traffic",
+    "holder_engagement": 1,
+    "closer_engagement": 1,
+    "conversion": 1,
+    "impression_interaction": 0
+  },
+  {
+    "conversion_id": "726fb4522d708cb0840855ea89091359085903de9b4795b446368b96c68a6a32",
+    "session_id": "3a3a07f5224ead485c343582be00fad0f5e78c4c7791e15e55c335fb4b3fdf66",
+    "timestamp": "2023-09-07 11:27:58",
+    "channel_label": "Paid Search Brand",
+    "holder_engagement": 1,
+    "closer_engagement": 0,
+    "conversion": 0,
+    "impression_interaction": 0
+  },
+  {
+    "conversion_id": "726fb4522d708cb0840855ea89091359085903de9b4795b446368b96c68a6a32",
+    "session_id": "d1360da633b227cbd8f114fbf782eaf6bc3e6a103173291ecac20d24a30ae668",
+    "timestamp": "2023-09-07 18:36:23",
+    "channel_label": "Organic Traffic",
+    "holder_engagement": 1,
+    "closer_engagement": 1,
+    "conversion": 1,
+    "impression_interaction": 0
+  },
+  {
+    "conversion_id": "f682bb1779ae1872c99519cf79c1654845c5b3ca55bc30b1ed4d3d40ff0c0c57",
+    "session_id": "bff13659ce1c5116d6a40e96285befbb7990e0f58a64f66764adb8f735e24f19",
+    "timestamp": "2023-09-05 22:47:16",
+    "channel_label": "Paid Search Non Brand",
+    "holder_engagement": 1,
+    "closer_engagement": 0,
+    "conversion": 0,
+    "impression_interaction": 0
+  },
+  {
+    "conversion_id": "f682bb1779ae1872c99519cf79c1654845c5b3ca55bc30b1ed4d3d40ff0c0c57",
+    "session_id": "95dc513f5bd34d9c6c1d122eff5e4ddfd769f9125ee780d57e62c2a1e4a6a306",
+    "timestamp": "2023-09-05 22:48:25",
+    "channel_label": "Organic Traffic",
+    "holder_engagement": 1,
+    "closer_engagement": 0,
+    "conversion": 0,
+    "impression_interaction": 0
+  },
+  {
+    "conversion_id": "f682bb1779ae1872c99519cf79c1654845c5b3ca55bc30b1ed4d3d40ff0c0c57",
+    "session_id": "d1e999475c7e7d494983fe26f00f1ddd3f16951ee3840686ab11144058eb67c4",
+    "timestamp": "2023-09-05 22:52:01",
+    "channel_label": "Performance Max",
+    "holder_engagement": 1,
+    "closer_engagement": 1,
+    "conversion": 1,
+    "impression_interaction": 0
+  },
+  {
+    "conversion_id": "4e6832b2655fe3334458973c321dbaab67a681138b3019c62284d72ded3d22e4",
+    "session_id": "a37f0f64959ad9e3bd350b7afa621768e205d7fc99c8867852b999148312a406",
+    "timestamp": "2023-09-04 19:43:30",
+    "channel_label": "Newsletter & Email",
+    "holder_engagement": 1,
+    "closer_engagement": 1,
+    "conversion": 1,
+    "impression_interaction": 0
+  },
+  {
+    "conversion_id": "f9c65f7e7ca5ae549b3692f61e0631fba96b01c3ab825dae889d5f8a2e595924",
+    "session_id": "bffa254f9a7d658d0ea73c398679b9d3b66e1b0f61b41ba4be5dfcff81c3cad5",
+    "timestamp": "2023-09-05 17:02:54",
+    "channel_label": "Organic Traffic",
+    "holder_engagement": 1,
+    "closer_engagement": 1,
+    "conversion": 1,
+    "impression_interaction": 0
+  },
+  {
+    "conversion_id": "7dfd08fde2051d02e4a0bd77fa44f7ad4968893613d3c5600eff3fe5a5d1e03d",
+    "session_id": "df77827a114429f3a033cbda722e0bfc3513d0222ba9e48d63569f913ad1d68a",
+    "timestamp": "2023-09-01 14:29:36",
+    "channel_label": "Direct Traffic",
+    "holder_engagement": 1,
+    "closer_engagement": 1,
+    "conversion": 1,
+    "impression_interaction": 0
+  },
+  {
+    "conversion_id": "9514f9c064375d82471c1a3a6a4c9dbd2b2eb1d1ebfbb4eb44f596710b4cc535",
+    "session_id": "cf97b2dc3ff7af72aac0b5cafd1934536cb17d6a5a3d1f943fc964be6f7963de",
+    "timestamp": "2023-09-01 10:42:58",
+    "channel_label": "Newsletter & Email",
+    "holder_engagement": 1,
+    "closer_engagement": 0,
+    "conversion": 0,
+    "impression_interaction": 0
+  },
+  {
+    "conversion_id": "9514f9c064375d82471c1a3a6a4c9dbd2b2eb1d1ebfbb4eb44f596710b4cc535",
+    "session_id": "a320a80123f2b416e6f68169367864b2b59f3dbc6b134bc55c4fee68d8424d85",
+    "timestamp": "2023-09-01 10:46:20",
+    "channel_label": "Newsletter & Email",
+    "holder_engagement": 1,
+    "closer_engagement": 1,
+    "conversion": 0,
+    "impression_interaction": 0
+  },
+  {
+    "conversion_id": "9514f9c064375d82471c1a3a6a4c9dbd2b2eb1d1ebfbb4eb44f596710b4cc535",
+    "session_id": "f5a2b6a391ef675947495dc3556a00815fb9d3ab375ffa9089525028bc8aec5d",
+    "timestamp": "2023-09-01 10:53:12",
+    "channel_label": "Newsletter & Email",
+    "holder_engagement": 1,
+    "closer_engagement": 1,
+    "conversion": 0,
+    "impression_interaction": 0
+  },
+  {
+    "conversion_id": "9514f9c064375d82471c1a3a6a4c9dbd2b2eb1d1ebfbb4eb44f596710b4cc535",
+    "session_id": "c2954830a6082908ff009303e5b3768f561586eadf362aaa9d3de4e7b9ae635f",
+    "timestamp": "2023-09-02 11:58:20",
+    "channel_label": "Direct Traffic",
+    "holder_engagement": 1,
+    "closer_engagement": 1,
+    "conversion": 0,
+    "impression_interaction": 0
+  },
+  {
+    "conversion_id": "9514f9c064375d82471c1a3a6a4c9dbd2b2eb1d1ebfbb4eb44f596710b4cc535",
+    "session_id": "8900f974e90aff732d8ca375bb6575507e9b4ee6a9ad71fa86ad7e6978ae3821",
+    "timestamp": "2023-09-04 09:12:25",
+    "channel_label": "Newsletter & Email",
+    "holder_engagement": 1,
+    "closer_engagement": 0,
+    "conversion": 0,
+    "impression_interaction": 0
+  },
+  {
+    "conversion_id": "9514f9c064375d82471c1a3a6a4c9dbd2b2eb1d1ebfbb4eb44f596710b4cc535",
+    "session_id": "9acec66c0793fbbb6000d26e58166515a2dfe9388a691c7ed2de3e79634d4df7",
+    "timestamp": "2023-09-04 21:41:54",
+    "channel_label": "Newsletter & Email",
+    "holder_engagement": 1,
+    "closer_engagement": 1,
+    "conversion": 1,
+    "impression_interaction": 0
+  },
+  {
+    "conversion_id": "ff4a9a72f6dcfd8c9baa49cfa8d52fa5af7c2f29bc7f562932f131308d14800a",
+    "session_id": "415cb9a7869e96de1b6e334815591a94634e1f11ca939db278abbf8e34d45741",
+    "timestamp": "2023-09-02 10:28:26",
+    "channel_label": "Organic Traffic",
+    "holder_engagement": 1,
+    "closer_engagement": 1,
+    "conversion": 1,
+    "impression_interaction": 0
+  },
+  {
+    "conversion_id": "23dbb7c28df813e5892ea8f678f34860372f540007e949c87c0b3b29e3d09dc8",
+    "session_id": "3742805d4977c2617686b38075f713a967670a8f1f15e7f8e3b37abfcfdb3d51",
+    "timestamp": "2023-09-05 16:23:02",
+    "channel_label": "Newsletter & Email",
+    "holder_engagement": 1,
+    "closer_engagement": 1,
+    "conversion": 0,
+    "impression_interaction": 0
+  },
+  {
+    "conversion_id": "23dbb7c28df813e5892ea8f678f34860372f540007e949c87c0b3b29e3d09dc8",
+    "session_id": "a2f3953e8b6a00da046054c7bed6117596aba707af9fe71a3df3c7e94141cc99",
+    "timestamp": "2023-09-05 16:38:13",
+    "channel_label": "Organic Traffic",
+    "holder_engagement": 1,
+    "closer_engagement": 1,
+    "conversion": 1,
+    "impression_interaction": 0
+  },
+  {
+    "conversion_id": "1355bc459baaa0e71b7218a3c9dec6945b51652ccbcc39a6a1201f45f6bea15e",
+    "session_id": "d18275773a42a94d07a9b8f1d454bc2dfda97c03399f480fb84eb352800f41e9",
+    "timestamp": "2023-09-07 11:16:52",
+    "channel_label": "Performance Max",
+    "holder_engagement": 1,
+    "closer_engagement": 0,
+    "conversion": 0,
+    "impression_interaction": 0
+  },
+  {
+    "conversion_id": "1355bc459baaa0e71b7218a3c9dec6945b51652ccbcc39a6a1201f45f6bea15e",
+    "session_id": "aa487996387a35ab2cdf3cdba3f2f17cbd5cb22837b319c032442e2f50807470",
+    "timestamp": "2023-09-07 11:19:15",
+    "channel_label": "Performance Max",
+    "holder_engagement": 1,
+    "closer_engagement": 0,
+    "conversion": 0,
+    "impression_interaction": 0
+  },
+  {
+    "conversion_id": "1355bc459baaa0e71b7218a3c9dec6945b51652ccbcc39a6a1201f45f6bea15e",
+    "session_id": "a984207dff6d48e8382607ad417045626f923f12a28f5e3338127925f5ef02ef",
+    "timestamp": "2023-09-07 11:26:48",
+    "channel_label": "Newsletter & Email",
+    "holder_engagement": 1,
+    "closer_engagement": 1,
+    "conversion": 1,
+    "impression_interaction": 0
+  },
+  {
+    "conversion_id": "be7eda355f00c79eb57e97c1075e713570dcfa47bc9ed84e1b740501d8b4f475",
+    "session_id": "0d4eafb39c67781f89643d9657abf55aac370320212e79fcab7c5b8686b85a97",
+    "timestamp": "2023-09-02 11:51:12",
+    "channel_label": "Organic Traffic",
+    "holder_engagement": 1,
+    "closer_engagement": 1,
+    "conversion": 1,
+    "impression_interaction": 0
+  },
+  {
+    "conversion_id": "7d131c801434446401ea5a0d9f65761b9c7e0c3109ac15a43d8c9bf76472639a",
+    "session_id": "818ab535fdc6cdad4430fdff2dc6ddf942f642bb3d515739eeef99ee4ed1daff",
+    "timestamp": "2023-09-03 10:01:18",
+    "channel_label": "Paid Search Brand",
+    "holder_engagement": 1,
+    "closer_engagement": 1,
+    "conversion": 1,
+    "impression_interaction": 0
+  },
+  {
+    "conversion_id": "53f86c97fed82349eeddcf5be275e6384f4a49e101764363b7eee07a29f1377a",
+    "session_id": "c0d56ac2c389091f6c192bfd867c146433e4bbe54f2f4f81d86df5dbc1a115ea",
+    "timestamp": "2023-09-04 11:37:49",
+    "channel_label": "Paid Search Brand",
+    "holder_engagement": 1,
+    "closer_engagement": 1,
+    "conversion": 1,
+    "impression_interaction": 0
+  },
+  {
+    "conversion_id": "bfc38e2b25a2aeaa261f344c331d2a203c84f6c26dcdd927daeb8c08c89fdabd",
+    "session_id": "8f392091c5a4bf9b47fc8f199bf49fef3231de45d3f1dbda0f985c1482d5860a",
+    "timestamp": "2023-09-05 10:06:04",
+    "channel_label": "Newsletter & Email",
+    "holder_engagement": 1,
+    "closer_engagement": 1,
+    "conversion": 1,
+    "impression_interaction": 0
+  }
+]
