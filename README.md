@@ -26,13 +26,14 @@ tables
 
 1. Python 3.7 or higher
 2. An IHC API account (free test account available at [ihc-attribution.com](https://ihc-attribution.com/))
+3. The challenge.db must be downloaded and unzipped from [Heansel-AMS/recruitment_challenge](https://github.com/haensel-ams/recruitment_challenge/tree/master/Data_Engineering_202309)
 
 ## Setup
 
 1. Clone this repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/PaulKenntner/Haensel_AMS_Data_Engineer_Challenge
 cd attribution-pipeline
 ```
 
