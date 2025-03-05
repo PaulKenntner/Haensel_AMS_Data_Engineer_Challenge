@@ -197,21 +197,18 @@ def insert_attribution_results(conn: sqlite3.Connection, attribution_results: li
     try:
         cursor = conn.cursor()
         
-        # Use INSERT OR IGNORE to skip records that would violate the unique constraint
+        # Use INSERT OR IGNORE to handle potential duplicates
         insert_query = """
-        INSERT OR IGNORE INTO attribution_customer_journey
-        (conv_id, session_id, channel, timestamp, ihc_score)
-        VALUES (?, ?, ?, ?, ?)
+        INSERT OR IGNORE INTO attribution_customer_journey (conv_id, session_id, ihc)
+        VALUES (?, ?, ?)
         """
         
-        # Prepare data for insertion
+        # Format data according to the table structure
         data = [
             (
-                result['conversion_id'],
+                result['conv_id'],
                 result['session_id'],
-                result['channel'],
-                result['timestamp'],
-                result['ihc_score']
+                result['ihc']
             )
             for result in attribution_results
         ]

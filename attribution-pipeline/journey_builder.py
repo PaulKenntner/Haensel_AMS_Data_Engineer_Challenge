@@ -183,14 +183,14 @@ def format_sessions_for_api(
 def chunk_journeys(
     journeys: List[Dict[str, Any]], 
     max_journeys_per_chunk: int = 100,
-    max_sessions_per_chunk: int = 3000
+    max_sessions_per_chunk: int = 200
 ) -> List[List[Dict[str, Any]]]:
     """
     Split customer journeys into chunks according to API limits.
     
     The IHC API has limits on:
     - Maximum number of customer journeys in a single request (100)
-    - Maximum number of sessions in a single request (3000)
+    - Maximum number of sessions in a single request (200 for test accounts)
     
     This function splits the journeys into chunks that respect these limits.
     
