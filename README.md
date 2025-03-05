@@ -98,14 +98,6 @@ The pipeline generates a CSV file (`channel_reporting.csv` by default) containin
 - `CPO`: Cost Per Order (cost / ihc)
 - `ROAS`: Return On Ad Spend (ihc_revenue / cost)
 
-## IHC Attribution Model
-
-The IHC (Impression, Holder, Closer) attribution model is a data-driven approach that assigns credit to marketing touchpoints based on their role in the customer journey:
-- **Impression**: A touchpoint that creates awareness
-- **Holder**: A touchpoint that maintains engagement
-- **Closer**: A touchpoint that leads to conversion
-
-For more information, visit [ihc-attribution.com/ihc-data-driven-attribution-model](https://ihc-attribution.com/ihc-data-driven-attribution-model/).
 
 ## API Considerations
 
@@ -154,12 +146,8 @@ The architecture consists of five core components:
 
 ### Potential Improvements
 - **Parallel Processing**: Implement concurrent API requests for better performance
-- **Caching**: Add response caching to reduce redundant API calls
 - **Advanced Error Recovery**: Allow resuming from failure points
 - **Data Quality Checks**: Implement pre-processing validation
 - **Visualization**: Add graphical reporting capabilities
 - **Testing**: Develop comprehensive test suite for reliability
 - **Monitoring**: Implement pipeline performance tracking and alerting
-
-### Conclusion
-The pipeline effectively implements the IHC attribution model while prioritizing maintainability and error handling. It successfully processes marketing data and generates valuable performance metrics that can inform marketing strategy. While the current implementation meets the challenge requirements, the suggested improvements would enhance its efficiency and reliability in a production environment.
